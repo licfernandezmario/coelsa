@@ -1,0 +1,12 @@
+D:\M@R10\Desarrollo\Proyectos\COELSA\Coelsa.Infrastructure\bin\Debug\netcoreapp3.1\Coelsa.Infrastructure.deps.json
+D:\M@R10\Desarrollo\Proyectos\COELSA\Coelsa.Infrastructure\bin\Debug\netcoreapp3.1\Coelsa.Infrastructure.dll
+D:\M@R10\Desarrollo\Proyectos\COELSA\Coelsa.Infrastructure\bin\Debug\netcoreapp3.1\Coelsa.Infrastructure.pdb
+D:\M@R10\Desarrollo\Proyectos\COELSA\Coelsa.Infrastructure\bin\Debug\netcoreapp3.1\Coelsa.Core.dll
+D:\M@R10\Desarrollo\Proyectos\COELSA\Coelsa.Infrastructure\bin\Debug\netcoreapp3.1\Coelsa.Core.pdb
+D:\M@R10\Desarrollo\Proyectos\COELSA\Coelsa.Infrastructure\obj\Debug\netcoreapp3.1\Coelsa.Infrastructure.csprojAssemblyReference.cache
+D:\M@R10\Desarrollo\Proyectos\COELSA\Coelsa.Infrastructure\obj\Debug\netcoreapp3.1\Coelsa.Infrastructure.AssemblyInfoInputs.cache
+D:\M@R10\Desarrollo\Proyectos\COELSA\Coelsa.Infrastructure\obj\Debug\netcoreapp3.1\Coelsa.Infrastructure.AssemblyInfo.cs
+D:\M@R10\Desarrollo\Proyectos\COELSA\Coelsa.Infrastructure\obj\Debug\netcoreapp3.1\Coelsa.Infrastructure.csproj.CoreCompileInputs.cache
+D:\M@R10\Desarrollo\Proyectos\COELSA\Coelsa.Infrastructure\obj\Debug\netcoreapp3.1\Coelsa.Infrastructure.csproj.CopyComplete
+D:\M@R10\Desarrollo\Proyectos\COELSA\Coelsa.Infrastructure\obj\Debug\netcoreapp3.1\Coelsa.Infrastructure.dll
+D:\M@R10\Desarrollo\Proyectos\COELSA\Coelsa.Infrastructure\obj\Debug\netcoreapp3.1\Coelsa.Infrastructure.pdb

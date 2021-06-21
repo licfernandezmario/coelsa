@@ -1,0 +1,9 @@
+D:\M@R10\Desarrollo\Proyectos\COELSA\Coelsa.Core\bin\Debug\netcoreapp3.1\Coelsa.Core.deps.json
+D:\M@R10\Desarrollo\Proyectos\COELSA\Coelsa.Core\bin\Debug\netcoreapp3.1\Coelsa.Core.dll
+D:\M@R10\Desarrollo\Proyectos\COELSA\Coelsa.Core\bin\Debug\netcoreapp3.1\Coelsa.Core.pdb
+D:\M@R10\Desarrollo\Proyectos\COELSA\Coelsa.Core\obj\Debug\netcoreapp3.1\Coelsa.Core.AssemblyInfoInputs.cache
+D:\M@R10\Desarrollo\Proyectos\COELSA\Coelsa.Core\obj\Debug\netcoreapp3.1\Coelsa.Core.AssemblyInfo.cs
+D:\M@R10\Desarrollo\Proyectos\COELSA\Coelsa.Core\obj\Debug\netcoreapp3.1\Coelsa.Core.csproj.CoreCompileInputs.cache
+D:\M@R10\Desarrollo\Proyectos\COELSA\Coelsa.Core\obj\Debug\netcoreapp3.1\Coelsa.Core.dll
+D:\M@R10\Desarrollo\Proyectos\COELSA\Coelsa.Core\obj\Debug\netcoreapp3.1\Coelsa.Core.pdb
+D:\M@R10\Desarrollo\Proyectos\COELSA\Coelsa.Core\obj\Debug\netcoreapp3.1\Coelsa.Core.csprojAssemblyReference.cache
